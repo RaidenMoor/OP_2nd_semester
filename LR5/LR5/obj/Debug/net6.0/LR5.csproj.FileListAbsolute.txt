@@ -1,0 +1,30 @@
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.exe
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.deps.json
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.runtimeconfig.json
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.dll
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.pdb
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.csproj.AssemblyReference.cache
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.AssemblyInfoInputs.cache
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.AssemblyInfo.cs
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.csproj.CoreCompileInputs.cache
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.dll
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\refint\LR5.dll
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.pdb
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.genruntimeconfig.cache
+D:\лабы 6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\ref\LR5.dll
+D:\labs_6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.exe
+D:\labs_6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.deps.json
+D:\labs_6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.runtimeconfig.json
+D:\labs_6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.dll
+D:\labs_6101\ОП\2 семестр\LR5\LR5\bin\Debug\net6.0\LR5.pdb
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.csproj.AssemblyReference.cache
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.AssemblyInfoInputs.cache
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.AssemblyInfo.cs
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.csproj.CoreCompileInputs.cache
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.dll
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\refint\LR5.dll
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.pdb
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\LR5.genruntimeconfig.cache
+D:\labs_6101\ОП\2 семестр\LR5\LR5\obj\Debug\net6.0\ref\LR5.dll
