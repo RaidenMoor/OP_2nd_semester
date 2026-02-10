@@ -1,0 +1,15 @@
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\bin\Debug\net6.0\LR4.exe
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\bin\Debug\net6.0\LR4.deps.json
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\bin\Debug\net6.0\LR4.runtimeconfig.json
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\bin\Debug\net6.0\LR4.dll
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\bin\Debug\net6.0\LR4.pdb
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.csproj.AssemblyReference.cache
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.AssemblyInfoInputs.cache
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.AssemblyInfo.cs
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.csproj.CoreCompileInputs.cache
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.dll
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\refint\LR4.dll
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.pdb
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\LR4.genruntimeconfig.cache
+D:\лабы 6101\ОП\2 семестр\LR4\LR4\obj\Debug\net6.0\ref\LR4.dll
